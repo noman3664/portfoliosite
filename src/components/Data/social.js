@@ -15,4 +15,9 @@ export const SocialData=[
         icon: require("../../assets/icons/facebook.png"),
         link:"https://www.facebook.com/",
     },
+    {
+        platform:"Github",
+        icon: require("../../assets/icons/github.png"),
+        link:"https://github.com/noman3664",
+    },
 ];
