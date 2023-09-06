@@ -1,0 +1,12 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.section-title{
+    color: black;
+    font-size: 32px;
+    display: flex;
+    font-weight: bold;
+    font-family: sans-serif
+}
